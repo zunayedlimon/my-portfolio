@@ -40,7 +40,7 @@ nav ul{
 .btn-primary{
     color: white;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 15px;
     padding: 18px 35px;
     border: 0px;
     height: 60px;
@@ -62,19 +62,19 @@ nav li{
 }
 
 .banner-title{
-   font-weight: 700;
-   font-size: 85px;
+   font-weight: 800;
+   font-size: 50px;
 
 }
 .banner-sub-title{
     font-weight: 600;
-    font-size: 45px;
+    font-size: 35px;
     margin-bottom: 20px;
 }
 .banner-description{
     
     color: #757575;
-    font-size: 18px;
+    font-size: 15px;
     margin-bottom: 30px;
 
 }
@@ -161,10 +161,14 @@ font-weight: 700;
     gap: 24px;
 }
 
+.resume .resume-title{
+    font-size: 25px;
+}
+
 .resume .title{
 
     font-weight: 700;
-    font-size: 25px;
+    font-size: 20px;
     color: #474747;
     margin-bottom: 10px;
 
@@ -172,7 +176,7 @@ font-weight: 700;
 .resume .sub-title{
     color: #757575;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 15px;
     margin-bottom: 30px;
 
 }
@@ -213,5 +217,5 @@ color: #757575;
 
 .contact a{
     text-decoration: none;
-    
+
 }
