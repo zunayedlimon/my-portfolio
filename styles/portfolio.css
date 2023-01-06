@@ -46,8 +46,21 @@ nav ul{
     height: 60px;
     border-radius: 5px;
     background-color: #FD6E0A;
-
+    margin-right: 20px;
 }
+.btnn-primary{
+    color:#FD6E0A;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 18px 35px;
+    border: 1px;
+    height: 60px;
+    border-style: solid;
+    border-color:#FD6E0A;
+    border-radius: 5px;}
+
+
+
 nav li{
     list-style: none;
     margin-left: 50px;
